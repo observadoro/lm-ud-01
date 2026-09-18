@@ -35,4 +35,3 @@ Live Preview|![logo live](img/live.png)|Visualizar mientras escribimos el result
 XML|![logo live](img/xml.png)|Facilitar sintaxis XML
 Markdown All in One|![md](img/md.png)| Facilitar sintaxis Markdown
 
----
