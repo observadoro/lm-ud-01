@@ -34,5 +34,3 @@ HTML CSS Support|![logo css](img/css3.png)|Facilitar la sintaxis y autocompletad
 Live Preview|![logo live](img/live.png)|Visualizar mientras escribimos el resultado formateado
 XML|![logo live](img/xml.png)|Facilitar sintaxis XML
 Markdown All in One|![md](img/md.png)| Facilitar sintaxis Markdown
-
---
